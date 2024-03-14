@@ -1,3 +1,0 @@
-key;value
-filepath;C:\Users\chava\OneDrive\Documents\Gajanan\test.txt
-delim;,
