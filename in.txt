@@ -1,4 +1,0 @@
-id;name
-1;Shong
-2;Elise
-3;Sabrina
